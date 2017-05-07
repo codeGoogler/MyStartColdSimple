@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyHeartMapView">
+        <attr name="lineColor" format="color"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="frameColor" format="color"/>
+        <attr name="gridviewColor" format="color"/>
+    </declare-styleable>
+
+
+
+</resources>
